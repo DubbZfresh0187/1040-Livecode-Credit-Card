@@ -31,6 +31,3 @@ describe "#credit_card_checker" do
     expect(actual).to eq(expected)
    end
 end
-
-
-    # p card_checker("4242-4242-4242-4242 3") == "Invalid Credit Card"
